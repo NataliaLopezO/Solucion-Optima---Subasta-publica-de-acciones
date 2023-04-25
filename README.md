@@ -13,7 +13,7 @@ Si no tienes instalado Django en tu computador ejecuta el siguiente comando
 <li>python3 -m pip install Django</li>
 </ul>
 
-Seguido de esto creamos una carpeta llamada "subastaPublica" dentro de la carpeta inicial y clonamos el proyecto dentro de esa carpeta. Una vez este clonado ejecutamos: 
+Seguido de esto clonamos el proyecto dentro de la carpeta inicial. Una vez este clonado ejecutamos: 
 
 <ul>
 <li>python3 manage.py runserver</li>
