@@ -1,6 +1,6 @@
 # Solucion-Optima---Subasta-publica-de-acciones
 
-Para ejecutar la aplicacion primero debes crear una carpeta en tu computador y en ella ejecutar los siguientes comandos para crear un nuevo ambiente y activarlo
+Para ejecutar la aplicación primero debes crear una carpeta en tu computador y en ella ejecutar los siguientes comandos para crear un nuevo ambiente y activarlo
 
 <ul>
 <li>python3 -m venv ProyectoADAInterfaz</li>
