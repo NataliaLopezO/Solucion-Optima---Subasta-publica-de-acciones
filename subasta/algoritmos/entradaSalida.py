@@ -31,6 +31,10 @@ def leerInstrucciones(nombreArchivo):
 
 
 def escribirSalida(salidas, nombre, algoritmo):
+  directory = 'subasta/archivos/salidas'
+  if not os.path.exists(directory):
+      os.makedirs(directory)
+  
   path = os.path.join("subasta/archivos/salidas", "salida_"+algoritmo+"_"+nombre+".txt")
   archivo = open(path, "w")
   
