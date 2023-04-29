@@ -17,7 +17,7 @@ Para ejecutar la aplicación primero debes crear una carpeta en tu computador y 
 <li>proyectoADAInterfaz/Scripts/activate</li>
 </ul>
 
-Si no tienes instalado Django en tu computador ejecuta el siguiente comando
+instala Django en el ambiente con el siguiente comando
 
 <ul>
 <li>python3 -m pip install Django</li>
