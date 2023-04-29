@@ -20,7 +20,7 @@ Para ejecutar la aplicación primero debes crear una carpeta en tu computador y 
 instala Django en el ambiente con el siguiente comando
 
 <ul>
-<li>python3 -m pip install Django</li>
+<li>pip install Django</li>
 </ul>
 
 Seguido de esto clonamos el proyecto dentro de la carpeta inicial. Una vez este clonado ejecutamos: 
